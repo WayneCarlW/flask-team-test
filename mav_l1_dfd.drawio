@@ -1,94 +1,117 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="Page-1" id="teekWTckhkmq-87jnN3C">
-    <mxGraphModel>
+    <mxGraphModel dx="1209" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="System Functions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="2" value="System Functions" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="143" y="311" width="968" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="User Actions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3" value="User Actions" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="8" y="135" width="1105" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Farmer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4" value="Farmer" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="32" y="8" width="111" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Veterinary Professional" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5" value="Veterinary Professional" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="198" y="8" width="225" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="System Admin" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="6" value="System Admin" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="919" y="8" width="159" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="Telemedicine Application" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7" value="Telemedicine Application" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="565" y="8" width="240" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Farmer Actions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8" value="Farmer Actions" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="183" y="160" width="167" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="Veterinary Actions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="9" value="Veterinary Actions" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="400" y="160" width="190" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="Admin Actions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="10" value="Admin Actions" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="864" y="160" width="161" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="Register Animals" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_eJbeBwvgFUw-cNB6sw9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="266.38461538461524" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_eJbeBwvgFUw-cNB6sw9-45" value="Writing animal records" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_eJbeBwvgFUw-cNB6sw9-35">
+          <mxGeometry x="0.0067" y="3" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="Register Animals" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="178" y="336" width="177" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="Consult with Vet" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="406" y="336" width="178" height="54" as="geometry" />
+        <mxCell id="_eJbeBwvgFUw-cNB6sw9-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="12" target="_eJbeBwvgFUw-cNB6sw9-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="Manage Users" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_eJbeBwvgFUw-cNB6sw9-46" value="Writing Consultaion records" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_eJbeBwvgFUw-cNB6sw9-36">
+          <mxGeometry x="0.6573" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="Consult with Vet" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="387" y="336" width="178" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Manage Users" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="715" y="336" width="157" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="View Records" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_eJbeBwvgFUw-cNB6sw9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="View Records" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="922" y="336" width="155" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="15" value="registers animals" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.04;" edge="1" parent="1" source="4" target="8">
+        <mxCell id="15" value="registers animals" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.04;" parent="1" source="4" target="8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="87" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="16" value="submits animal info" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="8" target="11">
+        <mxCell id="16" value="submits animal info" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;" parent="1" source="8" target="11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="17" value="provides consultations" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0;" edge="1" parent="1" source="5" target="9">
+        <mxCell id="17" value="provides consultations" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0;" parent="1" source="5" target="9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="311" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="18" value="reviews animal info" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="9" target="12">
+        <mxCell id="18" value="reviews animal info" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;" parent="1" source="9" target="12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="19" value="manages system" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.68;entryY=-0.01;" edge="1" parent="1" source="6" target="10">
+        <mxCell id="19" value="manages system" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.68;entryY=-0.01;" parent="1" source="6" target="10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="999" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="20" value="oversees user accounts" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=0.99;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="10" target="13">
+        <mxCell id="20" value="oversees user accounts" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=0.99;entryX=0.5;entryY=0.01;" parent="1" source="10" target="13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="793" y="239" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="21" value="reviews veterinary records" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0.99;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="10" target="14">
+        <mxCell id="21" value="reviews veterinary records" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0.99;entryX=0.5;entryY=0.01;" parent="1" source="10" target="14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="999" y="239" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="22" value="facilitates" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=1;entryY=0.11;" edge="1" parent="1" source="7" target="8">
+        <mxCell id="22" value="facilitates" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=1;entryY=0.11;" parent="1" source="7" target="8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="474" y="98" />
@@ -96,7 +119,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="23" value="facilitates" style="curved=1;startArrow=none;endArrow=block;exitX=0.41;exitY=1;entryX=0.89;entryY=-0.01;" edge="1" parent="1" source="7" target="9">
+        <mxCell id="23" value="facilitates" style="curved=1;startArrow=none;endArrow=block;exitX=0.41;exitY=1;entryX=0.89;entryY=-0.01;" parent="1" source="7" target="9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="636" y="98" />
@@ -104,13 +127,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="24" value="facilitates" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=1;entryX=0;entryY=0.13;" edge="1" parent="1" source="7" target="10">
+        <mxCell id="24" value="facilitates" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=1;entryX=0;entryY=0.13;" parent="1" source="7" target="10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="733" y="98" />
               <mxPoint x="733" y="135" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_eJbeBwvgFUw-cNB6sw9-24" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="805" y="522" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_eJbeBwvgFUw-cNB6sw9-26" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="157" y="521" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_eJbeBwvgFUw-cNB6sw9-27" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="508" y="522" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_eJbeBwvgFUw-cNB6sw9-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_eJbeBwvgFUw-cNB6sw9-47" target="_eJbeBwvgFUw-cNB6sw9-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_eJbeBwvgFUw-cNB6sw9-42" value="Animal Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="217" y="522" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_eJbeBwvgFUw-cNB6sw9-43" value="Schedule Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="522" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_eJbeBwvgFUw-cNB6sw9-44" value="Users Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="523" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_eJbeBwvgFUw-cNB6sw9-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="13" target="_eJbeBwvgFUw-cNB6sw9-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="794" y="390" as="sourcePoint" />
+            <mxPoint x="915" y="523" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_eJbeBwvgFUw-cNB6sw9-47" value="Reading USers Databse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="764" y="430" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
